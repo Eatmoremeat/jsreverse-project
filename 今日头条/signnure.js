@@ -1,3 +1,11 @@
+// min_behot_time:0
+// category:__all__
+// utm_source:toutiao
+// widen:1
+// tadrequire:true
+// as:A1655ECC3F18508
+// cp:5ECFB87510483E1
+// _signature:s5OTagAgEBBMbGyV.hvVI7OTEnAAO1q
 window =global;
 window.location = {
     "href": "https://www.toutiao.com/ch/news_hot/",
